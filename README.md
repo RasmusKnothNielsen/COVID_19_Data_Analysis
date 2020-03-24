@@ -1,5 +1,5 @@
 # COVID_19_Data_Analysis
-Repo containing some work done with trying to identifying key elements for the COVID-19 virus. Did this to train my machine learning capabilities and general Data Analysis.
+Repo containing some work done with trying to identifying key elements for the research in the COVID-19 virus. Did this to train my machine learning capabilities and general Data Analysis.
 
 The Dataset that I have been working on, is the following:
 https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge
