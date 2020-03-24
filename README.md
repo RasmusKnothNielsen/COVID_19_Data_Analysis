@@ -10,4 +10,5 @@ I've done two different separations, to give a bit more granular look.
 Divided the Dataset up into
 - Four chunks ("first_quarter.png", "second_quarter.png", "third_quarter.png" and "fourth_quarter.png")
 - Ten chunks ("1.png", "2.png", "3.png" ... "10.png")
+
 and made wordclouds out of them.
